@@ -1,4 +1,4 @@
-# Uber Clone with REACT NATIVE !
+# Uber Clone avec REACT NATIVE !
 
 ## 🌟 À propos du projet
 
