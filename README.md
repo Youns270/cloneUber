@@ -2,7 +2,6 @@
 
 ## 🌟 About the Project
 
-![Screenshots](screenshot.png)
 
 This is a React Native app clone of Uber that uses Tailwind CSS and React Native Navigation libraries. The app provides similar features as Uber such as booking a ride, tracking the ride, and payment processing. It also uses Google Maps to provide location-based services. However, due to the paid Google API key, the project has not been completed yet.
 
@@ -39,3 +38,4 @@ To run the app, you will need to have the following installed on your machine:
 ```bash
 git clone https://github.com/muddasir03/Uber-Clone-ReactNative.git
 cd Uber-Clone
+npx expo start
