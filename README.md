@@ -1,42 +1,41 @@
 # Uber Clone with REACT NATIVE !
 
-## 🌟 About the Project
+## 🌟 À propos du projet
 
+Il s'agit d'un clone d'application React Native d'Uber qui utilise les bibliothèques Tailwind CSS et React Native Navigation. L'application offre des fonctionnalités similaires à Uber, telles que la réservation d'une course, le suivi de la course et le traitement des paiements. Elle utilise également Google Maps pour fournir des services basés sur la localisation. Cependant, en raison de la clé d'API payante de Google, le projet n'a pas encore été terminé.
 
-This is a React Native app clone of Uber that uses Tailwind CSS and React Native Navigation libraries. The app provides similar features as Uber such as booking a ride, tracking the ride, and payment processing. It also uses Google Maps to provide location-based services. However, due to the paid Google API key, the project has not been completed yet.
+Ce projet est idéal pour les développeurs React Native intéressés par la création d'une application de covoiturage en utilisant des bibliothèques et des outils populaires.
 
-This project is ideal for React Native developers who are interested in building a ride-sharing app using popular libraries and tools. The project is open-source, so developers can contribute to it and learn from it.
+## Fonctionnalités
 
-## Features
+- Authentification et inscription des utilisateurs
+- Gestion des profils des utilisateurs
+- Réservation d'une course
+- Suivi de la course
+- Traitement des paiements
+- Intégration avec Google Maps
 
-- User authentication and registration
-- User profile management
-- Booking a ride
-- Tracking the ride
-- Payment processing
-- Integration with Google Maps
-
-## Technologies Used
+## Technologies utilisées
 
 - React Native
 - Tailwind CSS
 - React Native Navigation
 - Google Maps API
 
-## 🚩 Deployment
+## 🚩 Déploiement
 
 
-## Getting Started
+## Pour commencer
 
-### Prerequisites
+### Prérequis
 
-To run the app, you will need to have the following installed on your machine:
+Pour faire fonctionner l'application, les éléments suivants doivent être installés sur votre machine :
 
 - Node.js
 - npm
 - Expo CLI
 
-### Clone the project
+### Cloner le projet
 
 ```bash
 git clone https://github.com/muddasir03/Uber-Clone-ReactNative.git
