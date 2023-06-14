@@ -1,4 +1,4 @@
-# Uber Clone with REACT NATIVE!
+# Uber Clone with REACT NATIVE !
 
 ## 🌟 About the Project
 
@@ -23,6 +23,10 @@ This project is ideal for React Native developers who are interested in building
 - React Native Navigation
 - Google Maps API
 
+## 🚩 Deployment
+
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -38,4 +42,5 @@ To run the app, you will need to have the following installed on your machine:
 ```bash
 git clone https://github.com/muddasir03/Uber-Clone-ReactNative.git
 cd Uber-Clone
+npm install
 npx expo start
