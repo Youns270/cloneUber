@@ -38,7 +38,7 @@ Pour faire fonctionner l'application, les éléments suivants doivent être inst
 ### Cloner le projet
 
 ```bash
-git clone https://github.com/muddasir03/Uber-Clone-ReactNative.git
+git clone https://github.com/younes-sab/cloneUber.git
 cd Uber-Clone
 npm install
 npx expo start
