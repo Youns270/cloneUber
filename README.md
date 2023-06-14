@@ -26,7 +26,6 @@ This project is ideal for React Native developers who are interested in building
 ## 🚩 Deployment
 
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -44,3 +43,6 @@ git clone https://github.com/muddasir03/Uber-Clone-ReactNative.git
 cd Uber-Clone
 npm install
 npx expo start
+
+
+## 🤝 Contact
